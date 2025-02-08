@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: 0a51d6eacb72018468f7b9af098b10b5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3662871690095512988
+    second: vejas7_0
+  - first:
+      213: -8548664273269354877
+    second: vejas7_1
+  - first:
+      213: -7079135657094935027
+    second: vejas7_2
+  - first:
+      213: 6005387330503209462
+    second: vejas7_3
+  - first:
+      213: -1553073593375682123
+    second: vejas7_4
+  - first:
+      213: -5350409327276934410
+    second: vejas7_5
+  - first:
+      213: -4333118725934829973
+    second: vejas7_6
+  - first:
+      213: 5049893544779676791
+    second: vejas7_7
+  - first:
+      213: 5492331623052852128
+    second: vejas7_8
+  - first:
+      213: -3505017258295348582
+    second: vejas7_9
+  - first:
+      213: -1598258191796224454
+    second: vejas7_10
+  - first:
+      213: -5193954964307807355
+    second: vejas7_11
+  - first:
+      213: 3225404781090106620
+    second: vejas7_12
+  - first:
+      213: -8500658884118383908
+    second: vejas7_13
+  - first:
+      213: 1198997452092866428
+    second: vejas7_14
+  - first:
+      213: -1062322045205936185
+    second: vejas7_15
+  - first:
+      213: -5194767699960244721
+    second: vejas7_16
+  - first:
+      213: 8860025116425736637
+    second: vejas7_17
+  - first:
+      213: 1811015213672789184
+    second: vejas7_18
+  - first:
+      213: -1803233095563824819
+    second: vejas7_19
+  - first:
+      213: -673567934669782354
+    second: vejas7_20
+  - first:
+      213: -3585750455694432396
+    second: vejas7_21
+  - first:
+      213: 6312211892747325407
+    second: vejas7_22
+  - first:
+      213: 6732349809758223224
+    second: vejas7_23
+  - first:
+      213: 5544292758730560901
+    second: vejas7_24
+  - first:
+      213: 4510080444883875687
+    second: vejas7_25
+  - first:
+      213: -7503471646241412268
+    second: vejas7_26
+  - first:
+      213: -6049760059411817801
+    second: vejas7_27
+  - first:
+      213: 1110786394003855974
+    second: vejas7_28
+  - first:
+      213: -1194495203815316505
+    second: vejas7_29
+  - first:
+      213: -7283000702201371769
+    second: vejas7_30
+  - first:
+      213: 8220140617857890123
+    second: vejas7_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 700
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vejas7_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1280
+        height: 960
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462b506ca9dda2dc0800000000000000
+      internalID: -3662871690095512988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vejas7_1
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 759
+        width: 99
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e05bfd22b0d5980800000000000000
+      internalID: -8548664273269354877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vejas7_2
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 749
+        width: 97
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e0e0270abd1cd90800000000000000
+      internalID: -7079135657094935027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vejas7_3
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 766
+        width: 93
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1764d85fb675350800000000000000
+      internalID: 6005387330503209462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vejas7_4
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 757
+        width: 92
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b19dcc9bcf527ae0800000000000000
+      internalID: -1553073593375682123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vejas7_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 726
+        width: 50
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fab8b480178fb5b0800000000000000
+      internalID: -5350409327276934410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vejas7_6
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 725
+        width: 136
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6eaf030a7badd3c0800000000000000
+      internalID: -4333118725934829973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vejas7_7
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 735
+        width: 129
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c712a6c63d41640800000000000000
+      internalID: 5049893544779676791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vejas7_8
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 713
+        width: 99
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0abb5b4f28ea83c40800000000000000
+      internalID: 5492331623052852128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vejas7_9
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 703
+        width: 97
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9231bbbf5dab5fc0800000000000000
+      internalID: -3505017258295348582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vejas7_10
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 679
+        width: 136
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3eb0aa74a8d1d9e0800000000000000
+      internalID: -1598258191796224454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vejas7_11
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 642
+        width: 69
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5837e0d8a7d5be7b0800000000000000
+      internalID: -5193954964307807355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vejas7_12
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 635
+        width: 68
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfce8b93f80f2cc20800000000000000
+      internalID: 3225404781090106620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vejas7_13
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 618
+        width: 95
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2fa5788c7970a80800000000000000
+      internalID: -8500658884118383908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vejas7_14
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 594
+        width: 74
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ff79284d1b3a010800000000000000
+      internalID: 1198997452092866428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vejas7_15
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 586
+        width: 73
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c70f627abfd141f0800000000000000
+      internalID: -1062322045205936185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vejas7_16
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 568
+        width: 102
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f065239cc4a78e7b0800000000000000
+      internalID: -5194767699960244721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vejas7_17
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 527
+        width: 99
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db15895a6e125fa70800000000000000
+      internalID: 8860025116425736637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vejas7_18
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 517
+        width: 97
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c47bcdddb4022910800000000000000
+      internalID: 1811015213672789184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vejas7_19
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 493
+        width: 136
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41b0b3bd01a9f6e0800000000000000
+      internalID: -1803233095563824819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vejas7_20
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 473
+        width: 99
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea20ae9388107a6f0800000000000000
+      internalID: -673567934669782354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vejas7_21
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 463
+        width: 97
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477632b65fadc3ec0800000000000000
+      internalID: -3585750455694432396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vejas7_22
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 459
+        width: 71
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf433ed54b799750800000000000000
+      internalID: 6312211892747325407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vejas7_23
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 452
+        width: 69
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87bbe428b7c1e6d50800000000000000
+      internalID: 6732349809758223224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vejas7_24
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 439
+        width: 136
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 585d7ee93e841fc40800000000000000
+      internalID: 5544292758730560901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vejas7_25
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 435
+        width: 96
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7673db9e446079e30800000000000000
+      internalID: 4510080444883875687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vejas7_26
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 360
+        width: 87
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ba097fa405ed790800000000000000
+      internalID: -7503471646241412268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vejas7_27
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 351
+        width: 86
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba996a674fea0ca0800000000000000
+      internalID: -6049760059411817801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vejas7_28
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 329
+        width: 120
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66adfe3175e4a6f00800000000000000
+      internalID: 1110786394003855974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vejas7_29
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 313
+        width: 92
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e32eaad0fc4c6fe0800000000000000
+      internalID: -1194495203815316505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vejas7_30
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 303
+        width: 90
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 783ed56c2759dea90800000000000000
+      internalID: -7283000702201371769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vejas7_31
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 280
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47fd2bf65ec31270800000000000000
+      internalID: 8220140617857890123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5564063700b10d7418a06cf2ba1ec07c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      vejas7_0: -3662871690095512988
+      vejas7_1: -8548664273269354877
+      vejas7_10: -1598258191796224454
+      vejas7_11: -5193954964307807355
+      vejas7_12: 3225404781090106620
+      vejas7_13: -8500658884118383908
+      vejas7_14: 1198997452092866428
+      vejas7_15: -1062322045205936185
+      vejas7_16: -5194767699960244721
+      vejas7_17: 8860025116425736637
+      vejas7_18: 1811015213672789184
+      vejas7_19: -1803233095563824819
+      vejas7_2: -7079135657094935027
+      vejas7_20: -673567934669782354
+      vejas7_21: -3585750455694432396
+      vejas7_22: 6312211892747325407
+      vejas7_23: 6732349809758223224
+      vejas7_24: 5544292758730560901
+      vejas7_25: 4510080444883875687
+      vejas7_26: -7503471646241412268
+      vejas7_27: -6049760059411817801
+      vejas7_28: 1110786394003855974
+      vejas7_29: -1194495203815316505
+      vejas7_3: 6005387330503209462
+      vejas7_30: -7283000702201371769
+      vejas7_31: 8220140617857890123
+      vejas7_4: -1553073593375682123
+      vejas7_5: -5350409327276934410
+      vejas7_6: -4333118725934829973
+      vejas7_7: 5049893544779676791
+      vejas7_8: 5492331623052852128
+      vejas7_9: -3505017258295348582
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
